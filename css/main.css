@@ -70,9 +70,9 @@ video {
  */
 
 fieldset {
-  border: 0;
+  border: 10;
   margin: 0;
-  padding: 0;
+  padding: 12;
 }
 
 /*
@@ -98,8 +98,8 @@ textarea {
    Author's custom styles
    ========================================================================== */
     #wrapper {
-      width: 960px;
-      border: black thin;
+      width: 900px;
+      border: Red thin;
       margin-left: auto;
       margin-right: auto;
       font-size: 18px;
@@ -107,7 +107,7 @@ textarea {
       font-family: SansSerif, "Helvetica Neue", Helvetica;
     }
     #logo img {
-      height: 116px;
+      height: 113px;
 
     }
     #article_text {
